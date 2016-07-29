@@ -1,2 +1,2 @@
 # nginx-node
-using nginx with node - reverse proxy
+## using nginx with node - reverse proxy
